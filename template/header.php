@@ -2,7 +2,7 @@
     <head>
         <meta charset="UTF-8">
         <title><?php echo $title; ?></title>
-        <link type
+        <link type="text/css" href="/template/style"
     </head>
     <body>
 
